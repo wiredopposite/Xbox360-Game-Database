@@ -22,7 +22,7 @@ will become this:
 ----Game files
 ```
 
-##Usage
+## Usage
 ```bash
 python3 organize.py <Path to directory of game folders>
 ```
