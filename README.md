@@ -5,7 +5,7 @@ The accompanying Python script can be used to organize game folders if they are 
 
 This:
 ```bash
--Directory
+-Input directory
 --Title ID
 ---Game files
 --Title ID
@@ -13,7 +13,7 @@ This:
 ```
 will become this:
 ```bash
--Directory
+-Input directory
 --Game Title
 ---Title ID
 ----Game files
